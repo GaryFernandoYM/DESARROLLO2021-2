@@ -1,6 +1,4 @@
-print("Hallar el area de un rombo")
-DM=int(input("Ingrese diagonal mayor:"))
-dm=int(input("Ingrese diagonal menor:"))
+print("calcular promedio final de FP")
 #Datos de entrada
 nota1=float(input("ingrese nota de evaluacion 1:"))
 nota2=float(input("ingrese nota de evaluacion 2:"))
