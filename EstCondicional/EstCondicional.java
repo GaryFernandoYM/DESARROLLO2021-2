@@ -8,5 +8,5 @@ class EstCondicional{
       }else{
         System.out.println("numero menor es:" + numero2);
       }
-    }
+    }   
 }
