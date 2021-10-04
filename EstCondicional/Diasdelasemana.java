@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Diasdelasemana{
     public static void main(String[] args) {
         int num;
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese Número del 1 - 7 : ");
         num = Integer.parseInt(sc.next());
         switch(num){
