@@ -4,6 +4,6 @@ public class OPERACIONES {
       int ingenieros=2;
       int resultado=0;
       resultado = albañíles +  ingenieros;
-      System.out.println("cantidad de trabajadores: "+resultado);  
+      system.out.println("cantidad de trabajadores: "+resultado);  
     }
-}
+}    
