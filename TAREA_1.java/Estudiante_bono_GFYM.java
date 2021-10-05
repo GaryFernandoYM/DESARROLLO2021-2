@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Estudiante_bono {
+public class Estudiante_bono_GFYM {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

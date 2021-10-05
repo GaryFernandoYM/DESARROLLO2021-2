@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BancoBandidoDePeluche {
+public class Banco_GFYM {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

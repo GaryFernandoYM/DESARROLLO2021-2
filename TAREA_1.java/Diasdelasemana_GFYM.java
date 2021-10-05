@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Diasdelasemana{
+public class Diasdelasemana_GFYM{
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ganancia_fabrica_Pantalones {
+public class Ganancia_fabrica_Pantalones_GFYM{
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

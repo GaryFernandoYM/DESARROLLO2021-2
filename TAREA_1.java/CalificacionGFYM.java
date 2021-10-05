@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class Calificacion{
-
-    public static void main(String[] args) {
+public class CalificacionGFYM{
+    public static void main(String[] args){
+        
+ 
         Scanner sc = new Scanner(System.in);
         int calificacion;
         System.out.print("Ingresa el valor de calificacion: ");
@@ -20,6 +21,7 @@ public class Calificacion{
             System.out.println("E");
         if(calificacion<=5)
             System.out.println("F");
+    
     }
 
-}
+ }
