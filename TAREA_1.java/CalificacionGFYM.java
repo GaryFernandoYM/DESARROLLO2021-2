@@ -21,6 +21,7 @@ public class CalificacionGFYM{
             System.out.println("E");
         if(calificacion<=5)
             System.out.println("F");
+            sc.close();
     
     }
 

@@ -12,4 +12,4 @@ nota7=float(input("ingrese nota de evaluacion 7:"))
 #Proceso
 proFin=(0.15*nota1)+(0.15*nota2)+(0.10*nota3)+(0.15*nota4)+(0.05*nota5)+(0.10*nota6)+(0.30*nota7)
 #Datos de salida
-print("El promedio final es:" , proFin)s
+print("El promedio final es:" , proFin)

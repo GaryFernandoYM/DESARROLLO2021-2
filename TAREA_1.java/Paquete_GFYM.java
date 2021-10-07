@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Paquete {
+public class Paquete_GFYM  {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -20,6 +20,7 @@ public class Paquete {
         if(dinero_recibido<10000)
             System.out.println("Paquete D");
             System.out.println("un par de zapatos,"+" dos camisas " +"y dos pantalones.");
+            in.close();
     }
 
 }

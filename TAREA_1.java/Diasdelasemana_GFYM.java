@@ -14,6 +14,7 @@ public class Diasdelasemana_GFYM{
             case 6: System.out.println("El dia de la semana es: VIERNES"); break;
             case 7: System.out.println("El dia de la semana es: SABADO"); break;
             default : System.out.println(" EL NÚMERO DE LA SEMANA ES INCORRECTO");
+            sc.close();
         }
     }
 }

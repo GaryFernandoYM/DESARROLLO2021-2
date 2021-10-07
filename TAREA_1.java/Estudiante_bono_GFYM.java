@@ -19,6 +19,7 @@ public class Estudiante_bono_GFYM {
         if(puntos>150)
             bono=salario_minimo*3;
         System.out.println("Valor de bono: " + bono);
+        in.close();
     }
 
 }

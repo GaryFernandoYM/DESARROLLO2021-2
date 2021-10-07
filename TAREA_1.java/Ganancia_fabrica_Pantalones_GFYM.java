@@ -57,6 +57,7 @@ public class Ganancia_fabrica_Pantalones_GFYM{
         System.out.println("Valor de mano de obra: " + mano_de_obra);
         System.out.println("Valor de metros de tela: " + metros_de_tela);
         System.out.println("Valor de precio final: " + precio_final);
+        in.close();
     }
 
 }

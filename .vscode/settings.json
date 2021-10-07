@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "TAREA_1.java",
         "PRACTICA",
-        "TAREA_1.java"
+        "examenp1"
     ]
 }

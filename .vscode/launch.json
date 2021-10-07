@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Examen1_GFYM",
+            "request": "launch",
+            "mainClass": "Examen1_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch JAVA",
+            "request": "launch",
+            "mainClass": "JAVA",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch L",
+            "request": "launch",
+            "mainClass": "L",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Banco_GFYM",
+            "request": "launch",
+            "mainClass": "Banco_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Beca",
+            "request": "launch",
+            "mainClass": "Beca",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalificacionGFYM",
+            "request": "launch",
+            "mainClass": "CalificacionGFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo",
+            "request": "launch",
+            "mainClass": "Ciclo",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diasdelasemana_GFYM",
+            "request": "launch",
+            "mainClass": "Diasdelasemana_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstCondicional",
+            "request": "launch",
+            "mainClass": "EstCondicional",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Estudiante_bono_GFYM",
+            "request": "launch",
+            "mainClass": "Estudiante_bono_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Examen_GFYM",
+            "request": "launch",
+            "mainClass": "Examen_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ganancia_fabrica_Pantalones_GFYM",
+            "request": "launch",
+            "mainClass": "Ganancia_fabrica_Pantalones_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operaciones2",
+            "request": "launch",
+            "mainClass": "Operaciones2",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperacionesBasicas",
+            "request": "launch",
+            "mainClass": "OperacionesBasicas",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch PagoservTelef_GFYM",
+            "request": "launch",
+            "mainClass": "PagoservTelef_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paquete_GFYM",
+            "request": "launch",
+            "mainClass": "Paquete_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Promedio",
+            "request": "launch",
+            "mainClass": "Promedio",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Suma",
+            "request": "launch",
+            "mainClass": "Suma",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch TipoVacuna_GFYM",
+            "request": "launch",
+            "mainClass": "TipoVacuna_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trabajadorde_Coca_Cola_GFYM",
+            "request": "launch",
+            "mainClass": "Trabajadorde_Coca_Cola_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch VentaLapicesGFYM",
+            "request": "launch",
+            "mainClass": "VentaLapicesGFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch ViajeDeEstudiosGFYM",
+            "request": "launch",
+            "mainClass": "ViajeDeEstudiosGFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        }
+    ]
+}

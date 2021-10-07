@@ -34,8 +34,9 @@ static void becaPresEst(){
         montoBeca=0;
       }
     }
-    //Datos Salida
+    
     if(montoBeca==0){
+    //Datos Salida
       System.out.println("Esforzarse para el proximo ciclo...!");
     }else{
       System.out.println("Felicitaciones Ud. es acreedor de una Beca por el Monto de: $"+montoBeca);

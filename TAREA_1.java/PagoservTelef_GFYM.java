@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PagoservTelef {
+public class PagoservTelef_GFYM {
   static Scanner sc = new Scanner(System.in);
 
   static void practica(){
@@ -49,10 +49,11 @@ public class PagoservTelef {
     System.out.println("Pago por llamada:"+pagoL);
     System.out.println("Impuesto:"+pImpuesto);
     System.out.println("Total Pago:"+totalPago);
+    sc.close();
   }
 
 
   public static void main(String[] args) {
     pagoservicioTelef();
-  }
+   }  
 }

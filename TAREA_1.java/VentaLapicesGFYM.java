@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class VentaLapices{
+public class VentaLapicesGFYM {
   static Scanner sc = new Scanner(System.in);
 
   static void ventaLapices(){

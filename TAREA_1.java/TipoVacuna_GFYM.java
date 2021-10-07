@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TipoVacuna {
+public class TipoVacuna_GFYM  {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -13,17 +13,18 @@ public class TipoVacuna {
         System.out.println("\t2.- hombre");
         System.out.print("\t: ");
         do {
-            sexo = in.nextInt();
-            in.nextLine();
-            if (sexo<1||sexo>2)
-                System.out.print("Valor incorrecto. Ingr\u00E9salo nuevamente.: ");
-        } while (sexo<1||sexo>2);
-        if((sexo==2&&edad>=16&&edad<70)||edad<16)
-            System.out.println("A");
-        if(sexo==1&&edad>=16&&edad<70)
-            System.out.println("B");
-        if(edad>70)
-            System.out.println("C");
-    }
+          sexo = in.nextInt();
+          in.nextLine();
+          if (sexo<1||sexo>2)
+       System.out.print("Valor incorrecto. Ingr\u00E9salo nuevamente.: ");
+      } while (sexo<1||sexo>2);
+      if((sexo==2&&edad>=16&&edad<70)||edad<16)
+      System.out.println(" EL TIPO DE VACUNA A");
+      if(sexo==1&&edad>=16&&edad<70)
+      System.out.println(" EL TIPO DE VACUNA B");
+      if(edad>70)
+      System.out.println("EL TIPO DE VACUNA C");
+      in.close();
+    }  
 
 }

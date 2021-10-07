@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Trabajadorde_Coca_Cola {
+public class Trabajadorde_Coca_Cola_GFYM  {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -27,6 +27,7 @@ public class Trabajadorde_Coca_Cola {
         System.out.println("Valor de sueldo bruto: " + sueldo_bruto);
         System.out.println("Valor de sueldo neto: " + sueldo_neto);
         System.out.println("Valor de transporte: " + transporte);
+        in.close();
     }
 
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ViajeDeEstudios  {
+public class ViajeDeEstudiosGFYM   {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -16,6 +16,7 @@ public class ViajeDeEstudios  {
         if(numero_de_alumnos>100)
             costo_del_pasaje=20;
         System.out.println("Valor de costo del pasaje: " + costo_del_pasaje);
+        in.close();
     }
 
 }
