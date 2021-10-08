@@ -1,14 +1,13 @@
 import java.util.Scanner;
 
-public class CalificacionGFYM{
-    public static void main(String[] args){
-        
- 
-        Scanner sc = new Scanner(System.in);
+public class Catorce_NotA_GFYM {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
         int calificacion;
         System.out.print("Ingresa el valor de calificacion: ");
-        calificacion = sc.nextInt();
-        sc.nextLine();
+        calificacion = in.nextInt();
+        in.nextLine();
         if(calificacion==10)
             System.out.println("A");
         if(calificacion==9)
@@ -18,11 +17,10 @@ public class CalificacionGFYM{
         if(calificacion==7)
             System.out.println("D");
         if(calificacion==6)
-            System.out.println("E");
-        if(calificacion<=5)
+            System.out.println("D");
+        if(calificacion<=5 && calificacion>0)
             System.out.println("F");
-            sc.close();
-    
+            in.close();
     }
 
- }
+}

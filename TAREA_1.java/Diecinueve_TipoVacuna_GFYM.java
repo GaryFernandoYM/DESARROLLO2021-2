@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TipoVacuna_GFYM  {
+public class Diecinueve_TipoVacuna_GFYM  {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

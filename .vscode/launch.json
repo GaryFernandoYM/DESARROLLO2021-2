@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch uno_VOtar_GFYM",
+            "request": "launch",
+            "mainClass": "uno_VOtar_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dieciseis_SegretatioBono_GFYM",
+            "request": "launch",
+            "mainClass": "Dieciseis_SegretatioBono_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch tres_REgalo_GFYM",
+            "request": "launch",
+            "mainClass": "tres_REgalo_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cuatro_Estacionamiento_GFYM",
+            "request": "launch",
+            "mainClass": "Cuatro_Estacionamiento_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cinco_PersoNamenos_GFYM",
+            "request": "launch",
+            "mainClass": "Cinco_PersoNamenos_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Seis_DEScuento",
+            "request": "launch",
+            "mainClass": "Seis_DEScuento",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Siete_Presidet_Bono",
+            "request": "launch",
+            "mainClass": "Siete_Presidet_Bono",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nueve_Poliza",
+            "request": "launch",
+            "mainClass": "Nueve_Poliza",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diez_Vacaciones_GFYM",
+            "request": "launch",
+            "mainClass": "Diez_Vacaciones_GFYM",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch once_bono",
+            "request": "launch",
+            "mainClass": "once_bono",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Descuento",
+            "request": "launch",
+            "mainClass": "Descuento",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Catorce_NotA",
+            "request": "launch",
+            "mainClass": "Catorce_NotA",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
             "name": "Launch Examen1_GFYM",
             "request": "launch",
             "mainClass": "Examen1_GFYM",
