@@ -130,7 +130,7 @@ static void menuOpciones_GFYM(){
     
     //fin   
           default:
-          System.out.println("El Algoritmo no existe se desea!");
+          System.out.println("El Algoritmo no existe!");
         }   
       System.out.println("___________________________________________________________________________________________");  
       System.out.println(msg);
