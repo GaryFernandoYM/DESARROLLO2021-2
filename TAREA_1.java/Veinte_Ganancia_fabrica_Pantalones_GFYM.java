@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Veinte_Ganancia_fabrica_Pantalones_GFYM{
 
-    public static void main(String[] args) {
+  public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int modelo, talla;
         double N_pantalones, cargo_por_talla, costo_de_la_tela, ganancia, ganancia_extra;

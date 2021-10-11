@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Veintiuno_Peluche_GFYM {
 
-    public static void main(String[] args) {
+  public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int i, n;
         double compras_realizadas, ganacia_por_intereses, intereses, multa, pago_del_corte_anterior;
@@ -41,9 +41,11 @@ public class Veintiuno_Peluche_GFYM {
             System.out.println("Valor de pago minimo: " + pago_minimo);
             System.out.println("Valor de pago para no generar intereses: " + pago_para_no_generar_intereses);
             System.out.println("Valor de saldo actual: " + saldo_actual);
+            in.close();
             System.out.println();
         }
         System.out.println("Valor de ganacia por intereses: " + ganacia_por_intereses);
+        
     }
 
 }

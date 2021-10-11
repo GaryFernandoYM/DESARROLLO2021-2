@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Siete_Presidet_Bono {
+public class Siete_Presidet_Bono_GFYM {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

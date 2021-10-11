@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Seis_DEScuento {
+public class Seis_DEScuento_GFYM {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -12,5 +12,7 @@ public class uno_VOtar_GFYM {
         else
             System.out.println("No puede votar en las pr\u00F3ximas elecciones.");
             in.close();
+   
+     }       
 
 }

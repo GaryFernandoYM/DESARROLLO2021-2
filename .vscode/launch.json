@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hola",
+            "request": "launch",
+            "mainClass": "hola",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
             "name": "Launch uno_VOtar_GFYM",
             "request": "launch",
             "mainClass": "uno_VOtar_GFYM",
