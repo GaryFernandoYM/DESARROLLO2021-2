@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "examenp1",
         "TAREA_1.java",
         "PRACTICA",
-        "examenp1"
-    ]
+        "TAREA_2"
+    ],
+    "maven.view": "flat"
 }
