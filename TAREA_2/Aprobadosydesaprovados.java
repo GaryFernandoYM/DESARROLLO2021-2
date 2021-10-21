@@ -17,7 +17,7 @@ public class Aprobadosydesaprovados {
         for (i=1; i<=n; i++) {
             System.out.println();
             System.out.print("alumno " + i);
-            System.out.print("     ingrese la calificacion : ");
+            System.out.print("   ingrese la calificacion : ");
             calificacion = in.nextDouble();
             in.nextLine();
             if(calificacion>=calificacion_aprobatoria)

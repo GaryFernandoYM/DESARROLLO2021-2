@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ElNaufragoSatisfecho",
+            "request": "launch",
+            "mainClass": "ElNaufragoSatisfecho",
+            "projectName": "DESARROLLO2021-2_b149b993"
+        },
+        {
+            "type": "java",
             "name": "Launch Aprobadosydesaprovados",
             "request": "launch",
             "mainClass": "Aprobadosydesaprovados",
