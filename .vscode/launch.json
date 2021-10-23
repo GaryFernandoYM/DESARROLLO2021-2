@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Monedero",
+            "request": "launch",
+            "mainClass": "Monedero",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch AhoroDiario_Anual",
+            "request": "launch",
+            "mainClass": "AhoroDiario_Anual",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch mila",
+            "request": "launch",
+            "mainClass": "mila.mila",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumaDEnumerosPares",
+            "request": "launch",
+            "mainClass": "ProblemasDEclase.SumaDEnumerosPares",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "ProblemasDEclase.Factorial",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsisnaturasCURSADAS",
+            "request": "launch",
+            "mainClass": "ProblemasDEclase.AsisnaturasCURSADAS",
+            "projectName": "DESARROLLO2021-2_92dd475"
+        },
+        {
+            "type": "java",
             "name": "Launch hola",
             "request": "launch",
             "mainClass": "hola",
