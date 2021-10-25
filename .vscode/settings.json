@@ -3,6 +3,12 @@
         "examenp1",
         "TAREA_1.java",
         "PRACTICA",
+<<<<<<< HEAD
         ""
     ]
+=======
+        "TAREA_2"
+    ],
+    "maven.view": "flat"
+>>>>>>> 201b53171de1ff5f405674d63c93d39d930126d7
 }
